@@ -72,4 +72,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Greggy Gianini Firmansyah - [@bagus_satoto1](https://instagram.com/bagus_satoto1) 
+Bagus Satoto - [@bagus_satoto1](https://instagram.com/bagus_satoto1) 
