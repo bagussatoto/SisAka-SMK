@@ -7,7 +7,7 @@
 
   <h3 align="center">Sistem Informasi Akademik SMK </h3>
 
-> "Sistem Informasi Akademik SMK Nasional Malang" Website Application is a Website that is used to store a lot of information. Information that can be stored is Subjects, Majors, Competency Standards, Teachers, Students, Student Guardians, and Values. This application is expected to facilitate the work of Teachers / Admins in conducting data collection.
+> "Sistem Informasi Akademik SMK " Website Application is a Website that is used to store a lot of information. Information that can be stored is Subjects, Majors, Competency Standards, Teachers, Students, Student Guardians, and Values. This application is expected to facilitate the work of Teachers / Admins in conducting data collection.
 
 > This application was created for assignments on the 12th grade "Project" subjects.
 
