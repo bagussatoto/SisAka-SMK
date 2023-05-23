@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://smk-nasional-malang.business.site/" target="_blank">
+  <!-- <a href="https://smk-nasional-malang.business.site/" target="_blank"> -->
     <img src="logo/smknasional.png" alt="Logo" width="150" height="150">
   </a>
 
