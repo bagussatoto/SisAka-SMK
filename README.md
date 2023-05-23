@@ -7,9 +7,9 @@
 
   <h3 align="center">Sistem Informasi Akademik SMK </h3>
 
-> "Sistem Informasi Akademik SMK " Website Application is a Website that is used to store a lot of information. Information that can be stored is Subjects, Majors, Competency Standards, Teachers, Students, Student Guardians, and Values. This application is expected to facilitate the work of Teachers / Admins in conducting data collection.
+> "SISTEM INFORMASI AKADMIK SMK" Aplikasi situs web adalah situs web yang digunakan untuk menyimpan banyak informasi. Informasi yang dapat disimpan adalah mata pelajaran, jurusan, standar kompetensi, guru, siswa, wali mahasiswa, dan nilai -nilai. Aplikasi ini diharapkan untuk memfasilitasi pekerjaan guru / admin dalam melakukan pengumpulan data.
 
-> This application was created for assignments on the 12th grade "Project" subjects.
+> Aplikasi ini dibuat untuk penugasan pada subjek "proyek" proyek kelas 12.
 
 </p>
 
@@ -27,15 +27,15 @@
 
 ### Login Page
 
-![Login Page](https://github.com/bluohazard/sisinfo-smknas-mlg/blob/master/img/login.png)
+![Login Page](https://github.com/bagussatoto/SisAka-SMK/blob/main/img/login.png)
 
 ### Main Page
 
-![Main Page](https://github.com/bluohazard/sisinfo-smknas-mlg/blob/master/img/mainpage.png)
+![Main Page](https://github.com/bagussatoto/SisAka-SMK/blob/main/img/mainpage.png)
 
 ### Example Form Page
 
-![Example Form Page](https://github.com/bluohazard/sisinfo-smknas-mlg/blob/master/img/form.png)
+![Example Form Page](https://github.com/bagussatoto/SisAka-SMK/blob/main/img/form.png)
 
 ## Built With
 * [PHP](https://www.php.net/)
@@ -46,11 +46,12 @@
 
 1. Clone the repo
 ```sh
-git clone https://github.com/bluohazard/sisinfo-smknas-mlg.git
+git clone https://github.com/bagussatoto/SisAka-SMK.git
 ```
-<p align="center">
+
+<!-- <p align="center">
   <img src="gif/git-clone.gif" alt="Git Clone">
-</p>
+</p> -->
 
 2. Import Database `database/sekolah.sql` to your PhpMyAdmin
 
